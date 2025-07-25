@@ -17,6 +17,8 @@ LabFlow is a Python-based desktop application designed to efficiently convert au
 
 ## 🛠️ How to Use
 
+Video Tutorial: https://www.youtube.com/watch?v=vwsnipfGLms
+
 There are two ways to use this tool: by running the Python script directly or by using the executable file.
 
 ### Option 1: Run the Python Script Code (For Developers)
